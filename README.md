@@ -27,7 +27,8 @@ python .wali_celeba.py
 ```
 
 ## Results
-All models are trained using default hyperparameter settings for 20,000 iterations.
+All models are trained using default hyperparameter settings for 20,000 iterations. Note that the network architectures and training procedures are not carefully optimized for best performance.
+
 * SVHN (32 x 32)
 
 Generation            |  Reconstruction
