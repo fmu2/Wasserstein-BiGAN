@@ -1,2 +1,2 @@
 # Wasserstein-BiGAN
-Bidirectional GAN (a.k.a. ALI) trained using Wasserstein distance
+PyTorch implementation of bidirectional GAN (a.k.a. ALI) trained using Wasserstein distance
