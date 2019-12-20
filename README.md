@@ -30,7 +30,7 @@ python .wali_celeba.py
 All models are trained using default hyperparameter settings for 20,000 iterations.
 
 * SVHN
-Generation             |  Reconstruction
+Generation            |  Reconstruction
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/svhn_gen.png)  |  ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/svhn_rec.png)
 
@@ -40,7 +40,7 @@ Generation            |  Reconstruction
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/cifar10_gen.png)  |  ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/cifar10_rec.png)
 
 * Celeba
-Generation             |  Reconstruction
+Generation            |  Reconstruction
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/celeba_gen.png)  |  ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/celeba_rec.png)
 
