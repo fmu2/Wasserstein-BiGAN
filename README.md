@@ -7,7 +7,7 @@ This repository contains code for training BiGAN on SVHN, CIFAR-10 and Celeba da
 
 * We normalize pixel values to [-1, 1].
 * Our training objective is Wasserstein distance, not Jenson-Shannon divergence. Our model hence has a critic network instead of a discriminator network.
-* The critic network does NOT use normalization layers (batch norm, instance norm, etc.). We found that training fails if we incorporate normalization into the critic network.
+* The critic network does _NOT_ use normalization layers (batch norm, instance norm, etc.). We found that training fails if we incorporate normalization into the critic network.
 * We apply gradient penalty to stablize training.
 
 ## Quick Start
