@@ -52,6 +52,7 @@ Generation            |  Reconstruction
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/celeba_gen.png)  |  ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/celeba_rec.png)
 
 We finally show the interpolation results for ten sets of randomly generated images.
+
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/intp.png)
 
 ## Contact
