@@ -34,9 +34,13 @@ Generation            |  Reconstruction
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/svhn_gen.png)  |  ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/svhn_rec.png)
 
+* CIFAR-10 (32 x 32)
+
 Generation            |  Reconstruction
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/cifar10_gen.png)  |  ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/cifar10_rec.png)
+
+* Celeba (aligned, 64 x 64)
 
 Generation            |  Reconstruction
 :-------------------------:|:-------------------------:
