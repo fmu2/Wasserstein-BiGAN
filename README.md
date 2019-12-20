@@ -25,6 +25,10 @@ python ./wali_cifar10.py
 ```shell
 python .wali_celeba.py
 ```
+* Interpolate between two randomly generated images
+```shell
+python interpolate.py --ckpt=<model path> --n=<number of interpolations> --save-path=<saving path>
+```
 
 ## Results
 All models are trained using default hyperparameter settings for 20,000 iterations. Note that the network architectures and training procedures are not carefully optimized for best performance.
@@ -46,6 +50,9 @@ Generation            |  Reconstruction
 Generation            |  Reconstruction
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/celeba_gen.png)  |  ![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/celeba_rec.png)
+
+We finally show the interpolation results for ten sets of randomly generated images.
+![](https://raw.githubusercontent.com/fmu2/Wasserstein-BiGAN/master/results/intp.png)
 
 ## Contact
 [Fangzhou Mu](http://pages.cs.wisc.edu/~fmu/) (fmu2@wisc.edu)
