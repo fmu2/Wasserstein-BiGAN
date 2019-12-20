@@ -32,7 +32,7 @@ python .wali_celeba.py
 * Celeba
 
 ## Contact
-Fangzhou Mu (fmu2@wisc.edu)
+[Fangzhou Mu](http://pages.cs.wisc.edu/~fmu/) (fmu2@wisc.edu)
 
 ## Related Code Repositories
 * BiGAN <https://github.com/jeffdonahue/bigan>
