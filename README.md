@@ -27,7 +27,7 @@ python .wali_celeba.py
 ```
 * Interpolate between two randomly generated images
 ```shell
-python interpolate.py --ckpt=<model path> --n=<number of interpolations> --save-path=<saving path>
+python interpolate.py --ckpt=[model path] --n=[number of interpolations] --save-path=[saving path]
 ```
 
 ## Results
