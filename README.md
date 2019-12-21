@@ -1,6 +1,6 @@
 # Wasserstein BiGAN
 
-PyTorch implementation of bidirectional generative adversarial network ([BiGAN](https://arxiv.org/abs/1605.09782), a.k.a. [ALI](https://arxiv.org/abs/1606.00704)) trained using Wasserstein distance (see [WGAN](https://arxiv.org/abs/1701.07875) and [WGAN-GP](https://arxiv.org/abs/1704.00028)). The code has been tested in an conda environment with Python 3 and PyTorch >= 1.0.
+PyTorch implementation of bidirectional generative adversarial network ([BiGAN](https://arxiv.org/abs/1605.09782), a.k.a. [ALI](https://arxiv.org/abs/1606.00704)) trained using Wasserstein distance (see [WGAN](https://arxiv.org/abs/1701.07875) and [WGAN-GP](https://arxiv.org/abs/1704.00028)). The code has been tested in a conda environment with Python 3 and PyTorch >= 1.0.
 
 ## Overview
 This repository contains code for training BiGAN on SVHN, CIFAR-10 and Celeba datasets. Our implementation is different from the original BiGAN/ALI implementation in the following ways:
